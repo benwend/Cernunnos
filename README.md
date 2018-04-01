@@ -1,5 +1,7 @@
 # Cernunnos
 
+https://i.creativecommons.org/l/by-nc-sa/3.0/fr/88x31.png
+
 Symfony Standard Edition
 ========================
 
